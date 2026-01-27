@@ -1,0 +1,6 @@
+__pycache__/
+*.h5
+*.keras
+*.csv
+.ipynb_checkpoints/
+.env
