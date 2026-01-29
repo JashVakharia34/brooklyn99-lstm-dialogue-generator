@@ -42,8 +42,11 @@ pip install -r requirements.txt
 1. Train the model
 python Brooklyn99.ipynb
 2. Generate text
+
 generate_text("jake peralta", 14, temperature=0.85)
+
 generate_text("captain holt", 10, temperature=0.5)
+
 Temperature guide:
 
 0.5 – 0.6 → controlled, formal (Captain Holt)
