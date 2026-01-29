@@ -40,7 +40,7 @@ Install dependencies using:
 pip install -r requirements.txt
 🚀 How to Run
 1. Train the model
-python train.py
+python Brooklyn99.ipynb
 2. Generate text
 generate_text("jake peralta", 14, temperature=0.85)
 generate_text("captain holt", 10, temperature=0.5)
