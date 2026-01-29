@@ -36,7 +36,6 @@ This is a classic neural language modeling approach suitable for learning dialog
 - Pandas
 
 Install dependencies using:
-```bash
 pip install -r requirements.txt
 🚀 How to Run
 1. Train the model
